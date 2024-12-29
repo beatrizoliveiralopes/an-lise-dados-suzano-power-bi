@@ -1,4 +1,4 @@
-Seguindo a proposta, feito o refinamento do modelo apresentado no qual foi acrescentado os seguintes pontos:
+Seguindo a proposta de atividade de BD de e-commerce, feito o refinamento do modelo apresentado no qual foi acrescentado os seguintes pontos:
 
 <li>Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações; </li><br>
 <li>Pagamento – Pode ter cadastrado mais de uma forma de pagamento; </li><br>
